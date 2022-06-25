@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6b7fe26a-5e66-4b4a-a995-092262076228": {
+      "ProjectGuid": "6b7fe26a-5e66-4b4a-a995-092262076228",
+      "DisplayName": "Async Test",
+      "ColorIndex": 0
+    },
+    "528b0088-dfe7-4a92-9871-47de7347c9cf": {
+      "ProjectGuid": "528b0088-dfe7-4a92-9871-47de7347c9cf",
+      "DisplayName": "MicroLibrary",
+      "ColorIndex": 1
+    },
+    "06ca2d82-c59c-45df-916d-52c78b3ec69b": {
+      "ProjectGuid": "06ca2d82-c59c-45df-916d-52c78b3ec69b",
+      "DisplayName": "MicroLibrary (MONO)",
+      "ColorIndex": 2
+    },
+    "a262fb2f-71ce-46de-8ae0-dfdac07d105d": {
+      "ProjectGuid": "a262fb2f-71ce-46de-8ae0-dfdac07d105d",
+      "DisplayName": "MicroLibrary (NET 2.0)",
+      "ColorIndex": 3
+    },
+    "84c9cd57-25c7-4aec-8c8a-2d61b1a68aa2": {
+      "ProjectGuid": "84c9cd57-25c7-4aec-8c8a-2d61b1a68aa2",
+      "DisplayName": "MicroLibrary.JSON",
+      "ColorIndex": 4
+    },
+    "06307bac-020d-4fb7-b707-4d7db522eac0": {
+      "ProjectGuid": "06307bac-020d-4fb7-b707-4d7db522eac0",
+      "DisplayName": "MicroLibrary.Unity",
+      "ColorIndex": 5
+    },
+    "f5e6d28d-afa0-400e-910b-d097cfbe51e1": {
+      "ProjectGuid": "f5e6d28d-afa0-400e-910b-d097cfbe51e1",
+      "DisplayName": "MicroLibrary.MessagePack",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

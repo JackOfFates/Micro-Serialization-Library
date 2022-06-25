@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "528b0088-dfe7-4a92-9871-47de7347c9cf": {
+      "ProjectGuid": "528b0088-dfe7-4a92-9871-47de7347c9cf",
+      "DisplayName": "Micro Serialization Library",
+      "ColorIndex": 0
+    },
+    "ae5e32be-9f44-44e7-aa29-d85f993ad398": {
+      "ProjectGuid": "ae5e32be-9f44-44e7-aa29-d85f993ad398",
+      "DisplayName": "Micro Serialization Library (C-Sharp)",
+      "ColorIndex": 1
+    },
+    "84c9cd57-25c7-4aec-8c8a-2d61b1a68aa2": {
+      "ProjectGuid": "84c9cd57-25c7-4aec-8c8a-2d61b1a68aa2",
+      "DisplayName": "Micro Serialization Library.JSON",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

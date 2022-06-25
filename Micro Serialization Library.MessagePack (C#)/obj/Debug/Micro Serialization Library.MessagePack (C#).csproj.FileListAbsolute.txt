@@ -1,0 +1,10 @@
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.MessagePack (C#)\obj\Debug\Micro Serialization Library.MessagePack (C#).csprojResolveAssemblyReference.cache
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.MessagePack (C#)\bin\Debug\MicroSerializationLibrary.MessagePack.dll
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.MessagePack (C#)\bin\Debug\MicroSerializationLibrary.MessagePack.pdb
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.MessagePack (C#)\bin\Debug\MicroSerializationLibrary.MessagePack.xml
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.MessagePack (C#)\bin\Debug\MicroSerializationLibrary.dll
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.MessagePack (C#)\bin\Debug\MsgPack.dll
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.MessagePack (C#)\bin\Debug\MicroSerializationLibrary.pdb
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.MessagePack (C#)\bin\Debug\MsgPack.xml
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.MessagePack (C#)\obj\Debug\MicroSerializationLibrary.MessagePack.dll
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.MessagePack (C#)\obj\Debug\MicroSerializationLibrary.MessagePack.pdb

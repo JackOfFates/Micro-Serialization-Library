@@ -1,0 +1,16 @@
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.JSON\obj\Debug\MicroSerializationLibrary.Serialization.Resources.resources
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.JSON\obj\Debug\Micro Serialization Library.JSON.vbproj.GenerateResource.cache
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.JSON\bin\Debug\MicroSerializationLibrary.JSON.dll
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.JSON\bin\Debug\MicroSerializationLibrary.JSON.pdb
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.JSON\bin\Debug\MicroSerializationLibrary.JSON.xml
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.JSON\bin\Debug\MicroSerializationLibrary.dll
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.JSON\bin\Debug\ServiceStack.Text.dll
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.JSON\bin\Debug\MicroSerializationLibrary.pdb
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.JSON\bin\Debug\MicroSerializationLibrary.xml
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.JSON\obj\Debug\Micro Serialization Library.JSON.vbproj.CopyComplete
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.JSON\obj\Debug\MicroSerializationLibrary.JSON.dll
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.JSON\obj\Debug\MicroSerializationLibrary.JSON.xml
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.JSON\obj\Debug\MicroSerializationLibrary.JSON.pdb
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library.JSON\obj\Debug\Micro Serialization Library.JSON.vbprojAssemblyReference.cache

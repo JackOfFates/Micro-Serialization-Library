@@ -1,0 +1,127 @@
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\mattjameslibrary\Async Test\bin\Debug\Async Test.exe.config
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\mattjameslibrary\Async Test\bin\Debug\Async Test.exe
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\mattjameslibrary\Async Test\bin\Debug\Async Test.pdb
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\mattjameslibrary\Async Test\bin\Debug\Async Test.xml
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\mattjameslibrary\Async Test\bin\Debug\MattJamesLibrary.dll
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\mattjameslibrary\Async Test\bin\Debug\MattJamesLibrary.pdb
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\mattjameslibrary\Async Test\bin\Debug\MattJamesLibrary.xml
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\mattjameslibrary\Async Test\obj\Debug\Async Test.vbprojResolveAssemblyReference.cache
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\mattjameslibrary\Async Test\obj\Debug\Async_Test.Resources.resources
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\mattjameslibrary\Async Test\obj\Debug\Async Test.vbproj.GenerateResource.Cache
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\mattjameslibrary\Async Test\obj\Debug\Async Test.exe
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\mattjameslibrary\Async Test\obj\Debug\Async Test.xml
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\mattjameslibrary\Async Test\obj\Debug\Async Test.pdb
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\mattjameslibrary\Async Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\mattjameslibrary\Async Test\bin\Debug\MsgPack.dll
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\mattjameslibrary\Async Test\bin\Debug\MsgPack.xml
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\Async Test.exe.config
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\obj\Debug\Async Test.exe
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\obj\Debug\Async Test.xml
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\obj\Debug\Async Test.pdb
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\Async Test.exe
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\Async Test.pdb
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\Async Test.xml
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MsgPack.dll
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MsgPack.xml
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\obj\Debug\Async_Test.Resources.resources
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\obj\Debug\Async Test.vbproj.GenerateResource.Cache
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\obj\Debug\Async Test.vbprojResolveAssemblyReference.cache
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.dll
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.pdb
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.xml
+C:\Users\Matthew\Documents\microlibrary\Async Test\bin\Debug\Async Test.exe.config
+C:\Users\Matthew\Documents\microlibrary\Async Test\obj\Debug\Async Test.exe
+C:\Users\Matthew\Documents\microlibrary\Async Test\obj\Debug\Async Test.xml
+C:\Users\Matthew\Documents\microlibrary\Async Test\obj\Debug\Async Test.pdb
+C:\Users\Matthew\Documents\microlibrary\Async Test\bin\Debug\Async Test.exe
+C:\Users\Matthew\Documents\microlibrary\Async Test\bin\Debug\Async Test.pdb
+C:\Users\Matthew\Documents\microlibrary\Async Test\bin\Debug\Async Test.xml
+C:\Users\Matthew\Documents\microlibrary\Async Test\bin\Debug\MicroLibrary.dll
+C:\Users\Matthew\Documents\microlibrary\Async Test\bin\Debug\MsgPack.dll
+C:\Users\Matthew\Documents\microlibrary\Async Test\bin\Debug\MicroLibrary.pdb
+C:\Users\Matthew\Documents\microlibrary\Async Test\bin\Debug\MicroLibrary.xml
+C:\Users\Matthew\Documents\microlibrary\Async Test\bin\Debug\MsgPack.xml
+C:\Users\Matthew\Documents\microlibrary\Async Test\obj\Debug\Async Test.vbprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\microlibrary\Async Test\obj\Debug\Async_Test.Resources.resources
+C:\Users\Matthew\Documents\microlibrary\Async Test\obj\Debug\Async Test.vbproj.GenerateResource.Cache
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.JSON.dll
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.MessagePack.dll
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.JSON.pdb
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.JSON.xml
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.MessagePack.pdb
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.MessagePack.xml
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\Async Test.exe.config
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\obj\Debug\Async Test.exe
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\obj\Debug\Async Test.xml
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\obj\Debug\Async Test.pdb
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\Async Test.exe
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\Async Test.pdb
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\Async Test.xml
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.dll
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.JSON.dll
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.MessagePack.dll
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MsgPack.dll
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\Newtonsoft.Json.dll
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.pdb
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.xml
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.JSON.pdb
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.JSON.xml
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.MessagePack.pdb
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MicroLibrary.MessagePack.xml
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\bin\Debug\MsgPack.xml
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\obj\Debug\Async Test.vbprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\obj\Debug\Async_Test.Resources.resources
+H:\Documents\Visual Studio 2013\Projects\MicroLibrary\Async Test\obj\Debug\Async Test.vbproj.GenerateResource.Cache
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\bin\Debug\Async Test.exe.config
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\bin\Debug\Async Test.exe
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\bin\Debug\Async Test.pdb
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\bin\Debug\Async Test.xml
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.dll
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.JSON.dll
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\bin\Debug\MsgPack.dll
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.pdb
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.JSON.pdb
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.JSON.xml
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\bin\Debug\MsgPack.xml
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\obj\Debug\Async Test.vbprojResolveAssemblyReference.cache
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\obj\Debug\Async_Test.Resources.resources
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\obj\Debug\Async Test.vbproj.GenerateResource.Cache
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\obj\Debug\Async Test.exe
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\obj\Debug\Async Test.xml
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\obj\Debug\Async Test.pdb
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.MessagePack.dll
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.xml
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.MessagePack.pdb
+C:\Users\Vinnie\Documents\Visual Studio 2013\Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.MessagePack.xml
+H:\VS13 Projects\Micro Serialization Library\Async Test\bin\Debug\Async Test.exe.config
+H:\VS13 Projects\Micro Serialization Library\Async Test\bin\Debug\Async Test.exe
+H:\VS13 Projects\Micro Serialization Library\Async Test\bin\Debug\Async Test.pdb
+H:\VS13 Projects\Micro Serialization Library\Async Test\bin\Debug\Async Test.xml
+H:\VS13 Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.dll
+H:\VS13 Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.JSON.dll
+H:\VS13 Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.MessagePack.dll
+H:\VS13 Projects\Micro Serialization Library\Async Test\bin\Debug\MsgPack.dll
+H:\VS13 Projects\Micro Serialization Library\Async Test\bin\Debug\Newtonsoft.Json.dll
+H:\VS13 Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.pdb
+H:\VS13 Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.xml
+H:\VS13 Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.JSON.pdb
+H:\VS13 Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.JSON.xml
+H:\VS13 Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.MessagePack.pdb
+H:\VS13 Projects\Micro Serialization Library\Async Test\bin\Debug\MicroSerializationLibrary.MessagePack.xml
+H:\VS13 Projects\Micro Serialization Library\Async Test\bin\Debug\MsgPack.xml
+H:\VS13 Projects\Micro Serialization Library\Async Test\obj\Debug\Async Test.vbprojResolveAssemblyReference.cache
+H:\VS13 Projects\Micro Serialization Library\Async Test\obj\Debug\Async_Test.Resources.resources
+H:\VS13 Projects\Micro Serialization Library\Async Test\obj\Debug\Async Test.vbproj.GenerateResource.Cache
+H:\VS13 Projects\Micro Serialization Library\Async Test\obj\Debug\Async Test.exe
+H:\VS13 Projects\Micro Serialization Library\Async Test\obj\Debug\Async Test.xml
+H:\VS13 Projects\Micro Serialization Library\Async Test\obj\Debug\Async Test.pdb
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Async Test\obj\Debug\Async Test.exe
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Async Test\obj\Debug\Async Test.xml
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Async Test\obj\Debug\Async Test.pdb
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Async Test\obj\Debug\Async Test.vbproj.AssemblyReference.cache
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Async Test\obj\Debug\Async Test.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Async Test\obj\Debug\Async_Test.Resources.resources
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Async Test\obj\Debug\Async Test.vbproj.GenerateResource.cache
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Async Test\obj\Debug\Async Test.vbproj.CoreCompileInputs.cache

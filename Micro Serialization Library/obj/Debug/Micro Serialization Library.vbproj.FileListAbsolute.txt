@@ -1,0 +1,15 @@
+C:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library\bin\Debug\MicroSerializationLibrary.dll
+C:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library\bin\Debug\MicroSerializationLibrary.pdb
+C:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library\bin\Debug\MicroSerializationLibrary.xml
+C:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library\obj\Debug\Micro Serialization Library.vbprojAssemblyReference.cache
+C:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library\obj\Debug\Micro Serialization Library.vbproj.CoreCompileInputs.cache
+C:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library\obj\Debug\MicroSerializationLibrary.dll
+C:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library\obj\Debug\MicroSerializationLibrary.xml
+C:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library\obj\Debug\MicroSerializationLibrary.pdb
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library\bin\Debug\MicroSerializationLibrary.dll
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library\bin\Debug\MicroSerializationLibrary.pdb
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library\bin\Debug\MicroSerializationLibrary.xml
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library\obj\Debug\MicroSerializationLibrary.dll
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library\obj\Debug\MicroSerializationLibrary.xml
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library\obj\Debug\MicroSerializationLibrary.pdb
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library\obj\Debug\Micro Serialization Library.vbprojAssemblyReference.cache

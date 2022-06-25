@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MicroSerializationLibrary.JSON</name>
+    </assembly>
+    <members>
+        <member name="T:MicroSerializationLibrary.Serialization.JsonSerializer">
+            <summary>
+            The JSON serialization engine is slower than MessagePack, but supports a wider range of objects.
+            </summary>
+        </member>
+    </members>
+</doc>

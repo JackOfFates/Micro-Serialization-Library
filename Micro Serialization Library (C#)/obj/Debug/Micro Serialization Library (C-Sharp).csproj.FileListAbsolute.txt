@@ -1,0 +1,17 @@
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library (C#)\bin\Debug\MicroSerializationLibrary.dll
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library (C#)\bin\Debug\MicroSerializationLibrary.pdb
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library (C#)\bin\Debug\MicroLibrary.xml
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library (C#)\obj\Debug\MicroSerializationLibrary.dll
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library (C#)\obj\Debug\MicroSerializationLibrary.pdb
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library (C#)\bin\Debug\Newtonsoft.Json.dll
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library (C#)\bin\Debug\Newtonsoft.Json.xml
+E:\Users\Patho\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library (C#)\obj\Debug\Micro Serialization Library (C-Sharp).csprojResolveAssemblyReference.cache
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library (C#)\obj\Debug\MicroSerializationLibrary.dll
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library (C#)\obj\Debug\MicroSerializationLibrary.pdb
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library (C#)\bin\Debug\MicroSerializationLibrary.dll
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library (C#)\bin\Debug\MicroSerializationLibrary.pdb
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library (C#)\bin\Debug\MicroLibrary.xml
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library (C#)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library (C#)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library (C#)\obj\Debug\Micro Serialization Library (C-Sharp).csproj.CopyComplete
+C:\Users\Patho\OneDrive\Desktop\Pathogenix-micro-library-2697b2122669\Micro Serialization Library (C#)\obj\Debug\Micro Serialization Library (C-Sharp).csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+﻿Attempting to gather dependency information for package 'Newtonsoft.Json.12.0.3' with respect to project 'Micro Serialization Library.JSON (C#)', targeting '.NETFramework,Version=v3.5'
+Attempting to resolve dependencies for package 'Newtonsoft.Json.12.0.3' with DependencyBehavior 'Lowest'
+Resolving actions to install package 'Newtonsoft.Json.12.0.3'
+Resolved actions to install package 'Newtonsoft.Json.12.0.3'
+Removed package 'Newtonsoft.Json.10.0.3' from 'packages.config'
+Successfully uninstalled 'Newtonsoft.Json.10.0.3' from Micro Serialization Library.JSON (C#)
+Package 'Newtonsoft.Json.12.0.3' already exists in folder 'C:\Users\Vinnie\Documents\Visual Studio 2015\Projects\Linux MicroTCP\packages'
+Added package 'Newtonsoft.Json.12.0.3' to 'packages.config'
+Successfully installed 'Newtonsoft.Json 12.0.3' to Micro Serialization Library.JSON (C#)
+Removing package 'Newtonsoft.Json.10.0.3' from folder 'C:\Users\Vinnie\Documents\Visual Studio 2015\Projects\Linux MicroTCP\packages'
+Removed package 'Newtonsoft.Json.10.0.3' from folder 'C:\Users\Vinnie\Documents\Visual Studio 2015\Projects\Linux MicroTCP\packages'
+========== Finished ==========

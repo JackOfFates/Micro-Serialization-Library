@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MicroSerializationLibrary.MessagePack</name>
+    </assembly>
+    <members>
+        <member name="T:MicroSerializationLibrary.Serialization.MessagePackSerializer">
+            <summary>
+            The Message Pack Serializer is faster and slimmer than JSON, but not without limitations. 
+            https://github.com/msgpack/msgpack/blob/master/spec.md#limitation
+            </summary>
+        </member>
+    </members>
+</doc>
