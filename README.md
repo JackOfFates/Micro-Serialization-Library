@@ -4,7 +4,7 @@
 *Works with any platform, for use with Native or Interpreation-Layer Compiling*
 
 ## About ##
-Networking is complicated, usually. I decided to do something about it.
+Networking *can* be complicated.
 Documentation is hardly required.
 
 ## Roadmap ##
