@@ -1,5 +1,5 @@
 # Micro Serialization Library #
-*** Simplify Networking ***
+*Simply Networking*
 
 *Works with any platform, for use with Native or Interpreation-Layer Compiling*
 
